@@ -1,0 +1,3 @@
+review flask demo app
+Global Url of review scrapper project:
+https://reviewflaskarindam.herokuapp.com/review
